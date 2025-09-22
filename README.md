@@ -17,17 +17,23 @@ Mục tiêu: đưa ra insight để hỗ trợ chiến lược marketing, **chuy
   * Chủ yếu xuất phát từ **khu dân cư, văn phòng**.
 * Nhìn chung: **Casual = giải trí, Members = đi làm/đi học**.
 
-## 📊 Hình minh họa
+## 📊 Hình minh họa & Insight
 
-* Số chuyến đi theo ngày trong tuần (Member vs Casual).
-* Thời lượng trung bình chuyến đi theo ngày.
-* Top trạm khởi hành phổ biến của từng nhóm.
+1. **Số chuyến đi theo ngày trong tuần (Member vs Casual)**
+   → *Members đi nhiều vào ngày thường (commuting), Casual riders tập trung cuối tuần (leisure).*
+
+2. **Thời lượng trung bình chuyến đi theo ngày**
+   → *Casual riders có thời lượng chuyến dài hơn → xu hướng đi dạo, giải trí.*
+
+3. **Top trạm khởi hành phổ biến của từng nhóm**
+   → *Casual riders bắt đầu ở trạm gần khu du lịch; Members từ khu dân cư & văn phòng.*
+
+*(Biểu đồ minh họa được lưu trong thư mục `Plots/`)*
 
 ## ✅ Khuyến nghị
 
-1. **Gói hội viên linh hoạt**: ví dụ “Weekend Pass → Annual Upgrade”, hoặc membership mùa hè.
+1. **Gói hội viên linh hoạt**: ví dụ “Weekend Pass → Annual Upgrade” hoặc membership mùa hè.
 2. **Marketing tại hotspot du lịch**: đặt QR, biển quảng cáo tại trạm casual riders hay sử dụng.
 3. **Chiến dịch digital media**: nhấn mạnh sự **tiết kiệm chi phí và tiện lợi** khi nâng cấp lên annual membership.
 
 ---
-
