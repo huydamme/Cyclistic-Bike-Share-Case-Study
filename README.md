@@ -99,7 +99,7 @@ Cyclistic muốn tăng số lượng **annual members** vì nhóm này mang lạ
 
 ---
 
-## 📌 3 khuyến nghị chính (deliverable)
+## 📌 3 khuyến nghị chính 
 
 1. **Thiết kế gói membership linh hoạt cho casual riders**
 
