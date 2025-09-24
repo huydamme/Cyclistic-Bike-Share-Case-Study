@@ -29,7 +29,8 @@ Mục tiêu: đưa ra insight để hỗ trợ chiến lược marketing, **chuy
    → *Casual riders bắt đầu ở trạm gần khu du lịch; Members từ khu dân cư & văn phòng.*
 
    
-![Dashboard](Cyclistic-Bike-Share-Case-Study/Plots/Cyclistic Bike-Share Usage Analysis.png)
+![Dashboard](Plots/Cyclistic%20Bike-Share%20Usage%20Analysis.png)
+
 
 
 *(Biểu đồ minh họa được lưu trong thư mục `Plots/`)*
