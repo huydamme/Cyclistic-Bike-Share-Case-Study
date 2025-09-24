@@ -179,3 +179,18 @@ ggsave("p2_avg_length_by_day.png", p2, width = 10, height = 6, dpi = 300)
 ggsave("p3_heatmap_hour_day.png", p3, width = 12, height = 6, dpi = 300)
 ggsave("p5_top_stations.png", p5, width = 12, height = 7, dpi = 300)
 # (p4 có thể bỏ nếu không cần)
+
+# Xuất tất cả dữ liệu chuyến đi
+write.csv(all_trips_clean, "all_trips_clean.csv", row.names = FALSE)
+
+# Xuất data cho bar chart số chuyến theo ngày
+write.csv(df_day, "df_day.csv", row.names = FALSE)
+
+# Xuất data cho line chart thời lượng trung bình
+write.csv(df_len_day, "df_len_day.csv", row.names = FALSE)
+
+# Xuất data cho heatmap
+write.csv(df_heat, "df_heat.csv", row.names = FALSE)
+
+# Xuất data cho top 10 stations
+write.csv(top_stations, "top_stations.csv", row.names = FALSE)
