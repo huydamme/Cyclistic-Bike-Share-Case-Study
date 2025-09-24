@@ -28,6 +28,10 @@ Mục tiêu: đưa ra insight để hỗ trợ chiến lược marketing, **chuy
 3. **Top trạm khởi hành phổ biến của từng nhóm**
    → *Casual riders bắt đầu ở trạm gần khu du lịch; Members từ khu dân cư & văn phòng.*
 
+   
+![Cyclistic Dashboard](Plots/Uploading Cyclistic Bike-Share Usage Analysis.png)
+
+
 *(Biểu đồ minh họa được lưu trong thư mục `Plots/`)*
 
 ## ✅ Khuyến nghị
